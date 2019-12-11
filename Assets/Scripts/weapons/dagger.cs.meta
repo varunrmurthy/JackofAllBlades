@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c11aaef08b9ea10459e9f9985f2eaf3b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - kunai: {fileID: 8009350052728326313, guid: fab85b33eae342f4ea392aaa30347ddb, type: 3}
+  - smokescreen: {fileID: 1797956080552337982, guid: 47715552932ab3541988e2abc9bd49c0,
+      type: 3}
+  - cooldownIconObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
